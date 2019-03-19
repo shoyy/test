@@ -11,6 +11,7 @@ public class Springboot1ApplicationTests {
 
     @Test
     public void contextLoads() {
+       System.out.println("git 浏览器提交");
     }
 
 }
